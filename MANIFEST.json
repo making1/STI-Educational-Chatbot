@@ -1,0 +1,32 @@
+{
+  "project": "STI Educational Inquiry System",
+  "version": "1.0.0",
+  "files": [
+    ".env.example",
+    "README.md",
+    "app/__init__.py",
+    "app/config.py",
+    "app/db.py",
+    "app/kb.py",
+    "app/main.py",
+    "app/nlp.py",
+    "app/safety.py",
+    "app/templates/admin.html",
+    "app/templates/index.html",
+    "data/README.md",
+    "data/entities.json",
+    "data/intents.json",
+    "data/knowledge_base.json",
+    "data/sti.db",
+    "evaluation/README.md",
+    "evaluation/evaluate.py",
+    "evaluation/test_cases.json",
+    "model/README.md",
+    "model/intent_model.joblib",
+    "requirements.txt",
+    "scripts/init_db.py",
+    "scripts/train_model.py",
+    "start.bat",
+    "start.sh"
+  ]
+}
